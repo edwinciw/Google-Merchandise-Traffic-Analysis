@@ -1,4 +1,4 @@
-#Customer Journey Analysis Using Markov Chain Attribution
+# Customer Journey Analysis Using Markov Chain Attribution
 
 Understanding how customers navigate to an e-commerce website helps identify the most effective traffic sources and optimize profitability. This repository demonstrates an analysis of website traffic using Markov Chain Attribution to evaluate the impact of various acquisition channels, such as direct visits, paid search, and display ads.
 
