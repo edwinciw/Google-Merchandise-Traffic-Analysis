@@ -1,13 +1,13 @@
 # Customer Journey Analysis Using Markov Chain Attribution
+Understanding how customers navigate an e-commerce website is crucial for identifying the most effective traffic sources and optimizing profitability. This repository applies Markov Chain Attribution to analyze website traffic, evaluating the impact of various acquisition channels such as direct visits, paid search, and display ads.
 
-Understanding how customers navigate to an e-commerce website helps identify the most effective traffic sources and optimize profitability. This repository demonstrates an analysis of website traffic using Markov Chain Attribution to evaluate the impact of various acquisition channels, such as direct visits, paid search, and display ads.
+By examining visitor interaction sequences, this approach uncovers how different traffic sources contribute to conversions, providing actionable insights into customer behavior.
 
-By analyzing the sequence of visitor interactions, this approach uncovers the association between traffic sources and their influence on conversion rates.
-Repository Contents:
+**Repository Contents**:
 
 - 'Data Extraction.ipynb': Extracts public data on Google Cloud.
-- 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the E-commerce's website.
-- 'Source Performance over Time.ipynb': Analysis and revenue forecast on the assess sources of the website (e.g. Google, Facebook, etc.).
-- 'agg_data.zip': The zip file that contains all the extracted datasets from 'Data Extraction.ipynb'.
+- 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the e-commerce's website.
+- 'Source Performance over Time.ipynb':  Evaluates traffic source performance and forecasts revenue trends.
+- 'agg_data.zip': Contains all extracted datasets from Data Extraction.ipynb.
 
-This analysis provides valuable insights into customer behavior, helping businesses allocate marketing resources more effectively.
+This analysis helps businesses allocate marketing resources more effectively by understanding the influence of different acquisition channels on conversion rates.
