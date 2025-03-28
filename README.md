@@ -2,7 +2,7 @@
 Understanding how customers navigate an e-commerce website is crucial for identifying the most effective traffic sources and optimizing profitability. This repository applies Markov Chain Attribution to analyze website traffic, evaluating the impact of various acquisition channels such as direct visits, paid search, and display ads.
 
 <p align="center">
-    <img src="MarkovChainDiagram.svg" width="200" height="200" />
+    <img src="MarkovChainDiagram.svg" width="800" height="800" />
 </p>
 
 By examining visitor interaction sequences, this approach uncovers how different traffic sources contribute to conversions, providing actionable insights into customer behavior.
