@@ -18,7 +18,7 @@ This analysis helps businesses allocate marketing resources more effectively by 
 
 ## Main Results
 ### Multitorch-Attribution Model
-The following is the transition matrix of the conversion rate from sources to sources, evaluated the likelihood of the visitors going from source to source. 
+The following is a heatmap of the transition matrix of the conversion rate from sources to sources, which includes the starting point when the visitor first assess the website, 'null' as the end point of most recent assesses, and 'purchase' when the visitor converted and made a purchase on the website.
 <p align="center">
     <img src="transition_matrix.svg" width="1000" height="800" />
 </p>
