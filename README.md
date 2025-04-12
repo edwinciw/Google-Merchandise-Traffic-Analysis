@@ -9,7 +9,7 @@ The above displayed is a Markov Chain diagram that maps out the visitors traffic
 
 **How to use**:
 
-- 'Data Extraction.ipynb': Extracts public data [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud.
+- 'Data Extraction.ipynb': Extracts public data [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries.
 - 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the e-commerce's website.
 - 'Source Performance over Time.ipynb':  Evaluates traffic source performance and forecasts revenue trends.
 - 'agg_data.zip': Contains all extracted datasets from Data Extraction.ipynb.
