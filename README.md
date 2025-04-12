@@ -9,7 +9,7 @@ By examining visitor interaction sequences, this approach uncovers how different
 
 **Repository Contents**:
 
-- 'Data Extraction.ipynb': Extracts public data on Google Cloud.
+- 'Data Extraction.ipynb': Extracts public data [https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801](link) on Google Cloud.
 - 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the e-commerce's website.
 - 'Source Performance over Time.ipynb':  Evaluates traffic source performance and forecasts revenue trends.
 - 'agg_data.zip': Contains all extracted datasets from Data Extraction.ipynb.
