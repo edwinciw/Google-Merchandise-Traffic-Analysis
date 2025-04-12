@@ -19,5 +19,5 @@ This analysis helps businesses allocate marketing resources more effectively by 
 ## Main Results
 
 <p align="center">
-    <img src="transition_matrix.svg" width="600" height="500" />
+    <img src="transition_matrix.svg" width="1000" height="800" />
 </p>
