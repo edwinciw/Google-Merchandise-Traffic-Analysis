@@ -7,11 +7,17 @@ Understanding how customers navigate an e-commerce website is crucial for identi
 
 By examining visitor interaction sequences, this approach uncovers how different traffic sources contribute to conversions, providing actionable insights into customer behavior.
 
-**Repository Contents**:
+**How to use**:
 
-- 'Data Extraction.ipynb': Extracts public data [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801)) on Google Cloud.
+- 'Data Extraction.ipynb': Extracts public data [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud.
 - 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the e-commerce's website.
 - 'Source Performance over Time.ipynb':  Evaluates traffic source performance and forecasts revenue trends.
 - 'agg_data.zip': Contains all extracted datasets from Data Extraction.ipynb.
 
 This analysis helps businesses allocate marketing resources more effectively by understanding the influence of different acquisition channels on conversion rates.
+
+## Main Results
+
+<p align="center">
+    <img src="transition_matrix.svg" width="600" height="500" />
+</p>
