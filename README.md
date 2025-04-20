@@ -22,4 +22,4 @@ The following is a heatmap of the transition matrix of the conversion rate from 
 <p align="center">
     <img src="transition_matrix.svg" width="1000" height="800" />
 </p>
-
+Most purchases and conversions occured with the direct source of assess, and the proportion from a source to direct is relatively high from each source, meaning that most visitors saves the link or email with the website from the other sources and use them for future assess and purchases.
