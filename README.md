@@ -1,5 +1,5 @@
-# Customer Journey Analysis Using Markov Chain Attribution
-Understanding how customers navigate an e-commerce website is crucial for identifying the most effective traffic sources and support marketing decision making. This repository applies Markov Chain Attribution to analyze website traffic, evaluating the impact of various acquisition channels such as direct visits, paid search, and display ads. 
+# Customer Journey Analysis: Evaluating Traffic Sources & Conversion Paths
+Understanding how customers navigate the Google Merchandise Store is critical for optimizing marketing strategies. This analysis leverages Markov Chain Attribution to assess the impact of different traffic sources—such as direct visits, paid search, and display ads—on conversions. By modeling customer paths, we identify which channels contribute most to revenue and where marketing resources should be allocated for maximum ROI.
 
 <p align="center">
     <img src="MarkovChainDiagram.svg" width="600" height="500" />
@@ -7,6 +7,13 @@ Understanding how customers navigate an e-commerce website is crucial for identi
 
 The above displayed is a Markov Chain diagram that maps out the visitors traffic source sequences — similar to an amusement park map that shows all the attractions and the paths between them. But instead of just showing the routes, this map also displays the proportion of visitors moving from one point to another, giving insight into how users navigate toward a final destination (conversion). In evaluating the proportions, this helps to uncover how different traffic sources contribute to conversions, providing actionable insights into customer behavior.
 
+** Key Insights **
+
+1. Paid search and organic search dominate high-converting paths.
+2. Direct Traffic shows strong late-stage influence and initial engagement.
+3. Referrals contribute to early awareness but require retargeting to drive conversions.
+4. Multi-touch attribution reveals that most conversions involve direct, display ads, and paid search, potential improvement from leading traffic to those sources with cross-channel strategies.
+5. 
 **How to use**:
 
 - 'Data Extraction.ipynb': Extracts public data [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries.
