@@ -1,5 +1,5 @@
 # Customer Journey Analysis: Evaluating Traffic Sources & Conversion Paths
-Understanding how customers navigate the Google Merchandise Store is critical for optimizing marketing strategies. This analysis leverages Markov Chain Attribution to assess the impact of different traffic sources—such as direct visits, paid search, and display ads—on conversions. By modeling customer paths, we identify which channels contribute most to revenue and where marketing resources should be allocated for maximum ROI.
+Understanding how customers navigate the Google Merchandise Store is critical for optimizing marketing strategies. This analysis leverages Markov Chain Attribution to assess the impact of different traffic sources—such as direct visits, paid search, and display ads—on conversions. By modeling customer paths, we identify which channels contribute most to revenue and where marketing resources should be allocated for maximum return on investment.
 
 <p align="center">
     <img src="MarkovChainDiagram.svg" width="600" height="500" />
