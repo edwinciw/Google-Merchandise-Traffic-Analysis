@@ -23,7 +23,21 @@ For transparency and reproducibility, this project includes the following resour
 - 'Source Performance over Time.ipynb':  Evaluates traffic source performance and forecasts revenue trends.
 - 'agg_data.zip': Contains all extracted datasets from Data Extraction.ipynb.
 
+## Data
+The data is a public data of the Google merchandise store on Google Cloud with information of the website visits between August 2016 to August 2017. The following attributes were extracted for the analysis:
 
+- fullVisitorId: Visitor ID.
+- date: Date of the visit.
+- conversion: 1 if there are conversions from the current visit, else 0.
+- convSoFar: The number conversions the visitor has made since August 2016.
+- value: The amount paid by the visitor in this visit, in million $.
+- source: The name of the access source the visitor used to visit the store website. (e.g. google.com, facebook.com, etc.)
+- medium: The general access source the visitor used to visit the store website. (e.g. direct, referral, search, etc.)
+- channelGrouping: 
+- isTrueDirect: 1 if the visit is truely a direct access, which is clicking or typing the website link directly, else 0.
+- isNewVisitor: 1 if this is the first visit of the visitor since August 2016.
+- isFirstConversion: 1 if this is the visit with the first conversion the visitor has made since August 2016.
+  
 ## Main Results
 ### Markov Chain Attribution Model
 The following is a heatmap of the transition matrix of the percentage of visits from sources to sources of the starting source, which also includes:
@@ -48,5 +62,6 @@ The main observations are:
 - On the other hand, drop affiliation if they make losses since affilate has the lowest conversion rate and high exit percentage compared to other sources. Even though referral also has a high exit percentage, it is one of the main source that introduce visitors to the websites that can be controlled by the company, so it is better to keep and maintain partnerships in referrals.
 
 ## Questions
+- Is 'IsTrueDirect' a reliable label for true direct access? Unable to check the labeled visits based on the data. 
 - What's the commission rate for different partnerships? This determines whether affiliate is making losses throughout the year, and relocate budget to different partners that can make referrals to the target consumers based on return of ad spent (ROAS). Can the commission be renegotiated?
 - Why does referral have a high exit percentage? Which referral site drives the most high-intent traffic? And can we exclude spam referrals?
