@@ -7,21 +7,21 @@ Understanding how customers navigate the Google Merchandise Store is critical fo
 
 The above displayed is a Markov Chain diagram that maps out the visitors traffic source sequences — similar to an amusement park map that shows all the attractions and the paths between them. But instead of just showing the routes, this map also displays the proportion of visitors moving from one point to another, giving insight into how users navigate toward a final destination (conversion). In evaluating the proportions, this helps to uncover how different traffic sources contribute to conversions, providing actionable insights into customer behavior.
 
-** Key Insights **
+**Key Insights**
 
 1. Paid search and organic search dominate high-converting paths.
 2. Direct Traffic shows strong late-stage influence and initial engagement.
 3. Referrals contribute to early awareness but require retargeting to drive conversions.
-4. Multi-touch attribution reveals that most conversions involve direct, display ads, and paid search, potential improvement from leading traffic to those sources with cross-channel strategies.
-5. 
-**How to use**:
+4. Multi-touch attribution reveals that most conversions involve direct, display ads, and paid search, potential improvement on revenue and conversion by leading traffic to those sources with cross-channel strategies.
 
-- 'Data Extraction.ipynb': Extracts public data [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries.
-- 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the e-commerce's website.
+**Navigation of Analysis**
+For transparency and reproducibility, this project includes the following resources:
+
+- 'Data Extraction.ipynb': Extracts data of the Google merchaandise store [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries and Python, cleaned datasets stored in 'agg_data.zip'.
+- 'Multi-touch Attritbution.ipynb': Analysis on customers' (visitors') journey on the store website.
 - 'Source Performance over Time.ipynb':  Evaluates traffic source performance and forecasts revenue trends.
 - 'agg_data.zip': Contains all extracted datasets from Data Extraction.ipynb.
 
-This analysis helps businesses allocate marketing resources more effectively by understanding the influence of different acquisition channels on conversion rates.
 
 ## Main Results
 ### Multitorch-Attribution Model
