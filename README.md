@@ -36,6 +36,9 @@ The main observations are:
 - For the source to source interactions, the path to the same sources has second highest percentage right under 'null'. 'Paid Search' and 'Display Ad' has a higher percentage (2.2\% and 4.4\%) of visits going to 'Direct'; 'Paid Search' has the highest percentage (1\%) going to 'Display Ad', and 'Display Ad' has a similar percentage (0.86\%) going to 'Paid Search'.
 
 ## Recommendations
-- Most visits and revenue were generated from organic search and direct assess, suggesting that most purchases were made by returning visitors. Therefore relocate budget on the sources that are more likely to keep visitors revisiting, being paid search and displayed advertisements, improving and investing more on the quality and quantity of these sources. On the other hand, drop affiliation if they make losses since 'Affiliate' has a low conversion rate and high exit percentage. Even though referral has a high exit percentage, it is one of the main source that introduce visitors to the websites, so it is better to keep and maintain partnerships in referrals.
-- 
-- 
+- Most visits and revenue were generated from organic search and direct assess, suggesting that most purchases were likely made by returning visitors since the visitors must have known the website. Therefore reallocate budget on the sources that are more likely to keep visitors revisiting, being paid search and displayed advertisements, improving and investing more on the quality and quantity of these sources. Furthermore, paid search and displayed advertisements have higher conversion rate compared to the other sources. 
+- On the other hand, drop affiliation if they make losses since affilate has the lowest conversion rate and high exit percentage compared to other sources. Even though referral also has a high exit percentage, it is one of the main source that introduce visitors to the websites that can be controlled by the company, so it is better to keep and maintain partnerships in referrals.
+
+## Questions
+- What's the commission rate for different partnerships? This determines whether affiliate is making losses throughout the year, and relocate budget to different partners that can make referrals to the target consumers based on return of ad spent (ROAS). Can the commission be renegotiated?
+- Why does referral have a high exit percentage? Which referral site drives the most high-intent traffic? And can we exclude spam referrals?
