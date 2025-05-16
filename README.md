@@ -25,7 +25,7 @@ For transparency and reproducibility, this project includes the following resour
 
 
 ## Main Results
-### Multitorch-Attribution Model
+### Markov Chain Attribution Model
 The following is a heatmap of the transition matrix of the percentage of visits from sources to sources of the starting source, which also includes:
 
 - 'start' the starting point when the visitor first assess the website since August 2016.
