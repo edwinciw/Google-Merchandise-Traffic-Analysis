@@ -33,7 +33,6 @@ The data is a public data of the Google merchandise store on Google Cloud with i
 - value: The amount paid by the visitor in this visit, in million $.
 - source: The name of the access source the visitor used to visit the store website. (e.g. google.com, facebook.com, etc.)
 - medium: The general access source the visitor used to visit the store website. (e.g. direct, referral, search, etc.)
-- channelGrouping: 
 - isTrueDirect: 1 if the visit is truely a direct access, which is clicking or typing the website link directly, else 0.
 - isNewVisitor: 1 if this is the first visit of the visitor since August 2016.
 - isFirstConversion: 1 if this is the visit with the first conversion the visitor has made since August 2016.
