@@ -15,6 +15,7 @@ The above displayed is a Markov Chain diagram that maps out the visitors traffic
 4. Multi-touch attribution reveals that most conversions involve direct, display ads, and paid search, potential improvement on revenue and conversion by leading traffic to those sources with cross-channel strategies.
 
 **Navigation of Analysis**
+
 For transparency and reproducibility, this project includes the following resources:
 
 - 'Data Extraction.ipynb': Extracts data of the Google merchaandise store [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries and Python, cleaned datasets stored in 'agg_data.zip'.
