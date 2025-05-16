@@ -34,3 +34,8 @@ The main observations are:
 - Most purchases and conversiosn occurred through 'Direct' (1.2\%), 'Display Ad' (1.1\%), and 'Paid Search' (0.93\%).
 - The sources with the highest 'null' percentage are 'Referral', 'Search', and 'Affiliate', implying these sources are more unlikely to keep visitors and customers to return to the website.
 - For the source to source interactions, the path to the same sources has second highest percentage right under 'null'. 'Paid Search' and 'Display Ad' has a higher percentage (2.2\% and 4.4\%) of visits going to 'Direct'; 'Paid Search' has the highest percentage (1\%) going to 'Display Ad', and 'Display Ad' has a similar percentage (0.86\%) going to 'Paid Search'.
+
+## Recommendations
+- Most visits and revenue were generated from organic search and direct assess, suggesting that most purchases were made by returning visitors. Therefore relocate budget on the sources that are more likely to keep visitors revisiting, being paid search and displayed advertisements, improving and investing more on the quality and quantity of these sources. On the other hand, drop affiliation if they make losses since 'Affiliate' has a low conversion rate and high exit percentage. Even though referral has a high exit percentage, it is one of the main source that introduce visitors to the websites, so it is better to keep and maintain partnerships in referrals.
+- 
+- 
