@@ -39,7 +39,7 @@ Most variable are accurate to their definitions, exccept there are missing mediu
 ### Exploratory Data Analysis
 The following is the word cloud of all the source and medium from all visits:
 <p align="center">
-    <img src="wordclouds.svg" width="1000" height="600" />
+    <img src="wordclouds.svg" width="1000" height="500" />
 </p>
 
 - The most common way of visitors assessing the website is 'direct', following through the sources from 'Partners', 'youtube' and 'google', such as advertisements and paid search.
