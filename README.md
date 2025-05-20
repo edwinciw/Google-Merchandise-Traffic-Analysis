@@ -28,16 +28,38 @@ The data is a public data of the Google merchandise store on Google Cloud with i
 
 - fullVisitorId: Visitor ID.
 - date: Date of the visit.
-- conversion: 1 if there are conversions from the current visit, else 0.
-- convSoFar: The number conversions the visitor has made since August 2016.
-- value: The amount paid by the visitor in this visit, in million $.
+- transactions: The number of transactions during this visit.
+- transactionRevenue: Total money spent on the website during this visit.
 - source: The name of the access source the visitor used to visit the store website. (e.g. google.com, facebook.com, etc.)
 - medium: The general access source the visitor used to visit the store website. (e.g. direct, referral, search, etc.)
-- isTrueDirect: 1 if the visit is truely a direct access, which is clicking or typing the website link directly, else 0.
-- isNewVisitor: 1 if this is the first visit of the visitor since August 2016.
-- isFirstConversion: 1 if this is the visit with the first conversion the visitor has made since August 2016.
-  
-## Main Results
+
+Most variable are accurate to their definitions, exccept there are missing medium in the website, its impact will be assessed before deciding how to treat them. 
+
+## Results
+### Exploratory Data Analysis
+The following is the word cloud of all the source and medium from all visits:
+<p align="center">
+    <img src="wordclouds.svg" width="1000" height="800" />
+</p>
+
+- The most common way of visitors assessing the website is 'direct', following through the sources from 'Partners', 'youtube' and 'google', such as advertisements and paid search.
+- Direct and Referral is the most common assess to the website by visitors. There are a few visits with unknown medium from Google Analytics.
+
+| Medium   | Total Visits (%) | Revenue in Billions ($) |
+| -------- | ------- | -----------------------|
+| Direct  | 41 | 1190    |   
+| Search | 29 |205    |
+| Display Ad | 25.94 |78  |
+| Referral | 1.82 |40 |
+| Paid Search | 1,45 | 25 |
+| Affiliate | 0.68 | 0.59 |
+| Unknown | 0.01  | 0.001 |
+<p align="center">
+    <img src="revenue_transactions_by_medium.svg" width="1000" height="800" />
+</p>
+
+
+
 ### Markov Chain Attribution Model
 The following is a heatmap of the transition matrix of the percentage of visits from sources to sources of the starting source, which also includes:
 
