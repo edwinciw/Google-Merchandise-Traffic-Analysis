@@ -62,7 +62,7 @@ From the above table:
 
 The following figure shows the average revenue generated and total transactions made by medium:
 <p align="center">
-    <img src="avg_revenue_transactions_by_medium.svg" width="1000" height="800" />
+    <img src="transactions_avg_revenue_with_ci_by_medium" width="1000" height="800" />
 </p>
 
 - 'Direct' and 'Search' has the highest number of transactions (around 8000 and around 2000), then followed by 'Display Ad', 'Paid Search', and 'Referral', lastly, 'Affiliate' being the least.
