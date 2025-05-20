@@ -47,18 +47,28 @@ The following is the word cloud of all the source and medium from all visits:
 
 | Medium   | Total Visits (%) | Revenue in Billions ($) |
 | -------- | ------- | -----------------------|
-| Direct  | 41 | 1190    |   
-| Search | 29 |205    |
-| Display Ad | 25.94 |78  |
-| Referral | 1.82 |40 |
+| Direct  | 41.11 |  1190  |   
+| Search | 29.00 |  205  |
+| Display Ad | 25.94 | 78  |
+| Referral | 1.82 | 40 |
 | Paid Search | 1,45 | 25 |
 | Affiliate | 0.68 | 0.59 |
 | Unknown | 0.01  | 0.001 |
+| All | 100 | 1538.591 |
+
+From the above table:
+- Around 41% of visits were by direct, and the reveneue generated is significantly greater than the other mediums.
+- The unknown visits are only the 0.01% of all visits, with less than 0.01 percent (< 0.001 / 1538.591)revenue generated from the grand total revenue. Since the medium cannot be traced back, removed the unknown visits.
+
+The following figure shows the average revenue generated and total transactions made by medium:
 <p align="center">
-    <img src="revenue_transactions_by_medium.svg" width="1000" height="800" />
+    <img src="avg_revenue_transactions_by_medium.svg" width="1000" height="800" />
 </p>
 
+- 'Direct' and 'Search' has the highest number of transactions (around 8000 and around 2000), then followed by 'Display Ad', 'Paid Search', and 'Referral', lastly, 'Affiliate' being the least.
+- 'Display Ad' has a significantly higher average revenue by transaction at 0.5 billion dollars per transaction, so it is most likely to attract high-value customers. The other mediums has around 0.1 billion dollars per transaction, except for 'Affiliate' at around 0.05.
 
+From the above observations, most visits were made with direct or organic search assess, where majority of the revenue came from. Implying that it is more likely that transactions were made by returning visitors or visitors that knows the website or the store, but this is not a factor that can be easily improved or controlled. From other medium, 'Display Advertisemnt' has the highest potential in genenrating revenue, and improving the quality of the advertisements that tailor towards the target audiences, which can lead to an increase of visits and transactions. 
 
 ### Markov Chain Attribution Model
 The following is a heatmap of the transition matrix of the percentage of visits from sources to sources of the starting source, which also includes:
