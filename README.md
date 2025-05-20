@@ -45,6 +45,8 @@ The following is the word cloud of all the source and medium from all visits:
 - The most common way of visitors assessing the website is 'direct', following through the sources from 'Partners', 'youtube' and 'google', such as advertisements and paid search.
 - Direct and Referral is the most common assess to the website by visitors. There are a few visits with unknown medium from Google Analytics.
 
+
+
 | Medium   | Total Visits (%) | Revenue in Billions ($) |
 | -------- | ------- | -----------------------|
 | Direct  | 41.11 |  1190  |   
@@ -60,9 +62,10 @@ From the above table:
 - Around 41% of visits were by direct, and the reveneue generated is significantly greater than the other mediums.
 - The unknown visits are only the 0.01% of all visits, with less than 0.01 percent (< 0.001 / 1538.591)revenue generated from the grand total revenue. Since the medium cannot be traced back, removed the unknown visits.
 
+
 The following figure shows the average revenue generated and total transactions made by medium:
 <p align="center">
-    <img src="transactions_avg_revenue_with_ci_by_medium.svg" width="1000" height="800" />
+    <img src="transactions_avg_revenue_with_ci_by_medium.svg" width="1000" height="500" />
 </p>
 
 - 'Direct' and 'Search' has the highest number of transactions (around 8000 and around 2000), then followed by 'Display Ad', 'Paid Search', and 'Referral', lastly, 'Affiliate' being the least.
