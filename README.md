@@ -18,9 +18,8 @@ The above displayed is a Markov Chain diagram that maps out the visitors traffic
 
 For transparency and reproducibility, this project includes the following resources in the `vscode` and `data` folder:
 
-- `Data Extraction.ipynb`: Extracts data of the Google merchaandise store [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries and Python, cleaned datasets stored in 'agg_data.zip'.
+- `Data Extraction.ipynb`: Extracts data of the Google merchaandise store [link](https://bigquery.cloud.google.com/table/bigquery-public-data:google_analytics_sample.ga_sessions_20170801) on Google Cloud using SQL queries and Python, cleaned datasets stored in `agg_data.zip`.
 - `Multi-touch Attritbution.ipynb`: Analysis on customers' (visitors') journey on the store website.
-- `Source Performance over Time.ipynb`:  Evaluates traffic source performance and forecasts revenue trends.
 - `agg_data.zip`: Contains all extracted datasets from Data Extraction.ipynb.
 
 ## Data
