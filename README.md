@@ -86,12 +86,12 @@ For example, from 'start' to 'Affiliate', there is a 1.8\% of all visits startin
 The main observations are:
 
 - The three main entry source of the website is 'Direct' (38\%), 'Referral' (26\%), and 'Search' (33\%), which most visitors were introduced to the website from those sources. The other sources have less than 2\%. 
-- Most purchases and conversiosn occurred through 'Direct' (1.2\%), 'Display Ad' (1.1\%), and 'Paid Search' (0.93\%).
-- The sources with the highest 'null' percentage are 'Referral', 'Search', and 'Affiliate', implying these sources are more unlikely to keep visitors and customers to return to the website.
-- For the source to source interactions, the path to the same sources has second highest percentage right under 'null'. 'Paid Search' and 'Display Ad' has a higher percentage (2.2\% and 4.4\%) of visits going to 'Direct'; 'Paid Search' has the highest percentage (1\%) going to 'Display Ad', and 'Display Ad' has a similar percentage (0.86\%) going to 'Paid Search'.
+- Most purchases and conversiosn occurred through 'Direct' (1.3\%), 'Display Ad' (1.1\%), and 'Paid Search' (0.96\%).
+- The sources with the highest 'null' percentage are 'Referral', 'Search', and 'Affiliate', indicating these sources were more unlikely to keep new visitors, and attracting less target audiences of the website compared to the other sources.
+- For the source to source interactions, the path to the same sources has second highest percentage right under 'null'. 'Paid Search' and 'Display Ad' has a highest percentage (4\% and 8\%) of visits going to 'Direct'; similarly, 'Paid Search' and 'Display Ad' also has the highest percentage (8.9\% and 3.9%) going to 'Search'.
 
 ## Recommendations
-- Most visits and revenue were generated from organic search and direct assess, suggesting that most purchases were likely made by returning visitors since the visitors must have known the website. Therefore reallocate budget on the sources that are more likely to keep visitors revisiting, being paid search and displayed advertisements, improving and investing more on the quality and quantity of these sources. Furthermore, paid search and displayed advertisements have higher conversion rate compared to the other sources. 
+- Most visits and revenue were generated from organic search and direct assess based on average revenue per purchases, suggesting that most purchases were likely made by returning visitors since the visitors must have known the website. Therefore reallocate budget on the sources that are more likely to keep visitors revisiting, being paid search and displayed advertisements, improving and investing more on the quality and quantity of these sources. Furthermore, paid search and displayed advertisements have higher conversion rate compared to the other sources. 
 - On the other hand, drop affiliation if they make losses since affilate has the lowest conversion rate and high exit percentage compared to other sources. Even though referral also has a high exit percentage, it is one of the main source that introduce visitors to the websites that can be controlled by the company, so it is better to keep and maintain partnerships in referrals.
 
 ## Questions
