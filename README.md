@@ -49,7 +49,7 @@ The following is the word cloud of all the source and medium from all visits:
     <img src="images/wordclouds.svg" width="1000" height="500" />
 </p>
 
-- The most common way of visitors assessing the website is 'direct', following through the sources from 'Partners', 'youtube' and 'google', such as advertisements and paid search.
+- The most common way of visitors assessing the website is 'direct', following by the sources from 'Partners', 'youtube' and 'google', such as advertisements and paid search.
 - Direct and Referral is the most common assess to the website by visitors. There are a few visits with unknown medium from Google Analytics.
 
 
