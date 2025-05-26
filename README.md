@@ -46,7 +46,7 @@ Most variable are accurate to their definitions, exccept there are missing mediu
 ### Exploratory Data Analysis
 The following is the word cloud of all the source and medium from all visits:
 <p align="center">
-    <img src="wordclouds.svg" width="1000" height="500" />
+    <img src="images/wordclouds.svg" width="1000" height="500" />
 </p>
 
 - The most common way of visitors assessing the website is 'direct', following through the sources from 'Partners', 'youtube' and 'google', such as advertisements and paid search.
@@ -72,7 +72,7 @@ From the above table:
 
 The following figure shows the average revenue generated and total transactions made by medium:
 <p align="center">
-    <img src="transactions_avg_revenue_with_ci_by_medium.svg" width="1000" height="500" />
+    <img src="images/transactions_avg_revenue_with_ci_by_medium.svg" width="1000" height="500" />
 </p>
 
 - 'Direct' and 'Search' has the highest number of transactions (around 8000 and around 2000), then followed by 'Display Ad', 'Paid Search', and 'Referral', lastly, 'Affiliate' being the least.
@@ -89,7 +89,7 @@ The following is a heatmap of the transition matrix of the percentage of visits 
 
 For example, from 'start' to 'Affiliate', there is a 1.8\% of all visits starting at 'start' that ends at 'Affiliate'.
 <p align="center">
-    <img src="transition_matrix.svg" width="1000" height="800" />
+    <img src="images/transition_matrix.svg" width="1000" height="800" />
 </p>
 The main observations are:
 
