@@ -60,10 +60,10 @@ The following is the word cloud of all the source and medium from all visits:
 | Search | 29.00 |  205  |
 | Display Ad | 25.94 | 78  |
 | Referral | 1.82 | 40 |
-| Paid Search | 1,45 | 25 |
+| Paid Search | 1.45 | 25 |
 | Affiliate | 0.68 | 0.59 |
 | Unknown | 0.01  | 0.001 |
-| All | 100 | 1538.591 |
+| Total | 100 | 1538.591 |
 
 From the above table:
 - Around 41% of visits were by direct, and the reveneue generated is significantly greater than the other mediums.
